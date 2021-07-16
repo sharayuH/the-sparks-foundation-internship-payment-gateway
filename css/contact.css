@@ -1,0 +1,59 @@
+.navbar {
+  color: white;
+  font-family: "Source Sans Pro";
+  text-shadow: 2px 2px 2px #000000;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+  padding-left: 2rem;
+}
+
+.navbar-nav {
+  font-size: 1.8rem;
+}
+
+.card-img-top {
+  height: 10em;
+  width: 10em;
+  position: center;
+  margin-left: 5.75em;
+}
+
+.card {
+  /* margin-right: 10rem;
+        margin-top: 1rem; */
+  font-size: 2rem;
+  width: max-content;
+  border: none;
+  padding-bottom: 2em;
+}
+
+.card-text {
+  color: #300303;
+  padding-bottom: 1.8rem;
+  /* text-shadow: 2px 2px 2px #968787; */
+}
+
+.card-text-1 {
+  font-size: 5rem;
+  color: white;
+  text-shadow: 2px 2px 2px #000000;
+}
+
+.card-title {
+  font-size: 3rem;
+  color: rgb(0, 0, 0);
+  padding-bottom: 2rem;
+  /* text-shadow: 2px 2px 2px #2c2828; */
+}
+
+.white-link {
+  color: #300303;
+  font-size: 0.9em;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+}

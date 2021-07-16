@@ -1,0 +1,18 @@
+.navbar {
+  color: white;
+  font-family: "Source Sans Pro";
+  text-shadow: 2px 2px 2px #000000;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+  padding-left: 2rem;
+}
+
+.navbar-nav {
+  font-size: 1.8rem;
+}
+
+body {
+  font-family: "Lora", sans-serif !important;
+}

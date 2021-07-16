@@ -1,0 +1,50 @@
+.page-header {
+  margin-top: 2rem;
+  margin-bottom: -1rem;
+  color: #000000;
+  text-shadow: 2px 2px 5px #f8d45c;
+}
+
+.points {
+  margin-top: 0rem;
+  font-size: 1.6rem;
+  margin-bottom: 1.1rem;
+}
+
+.ul-3 {
+  padding: 5rem;
+  padding-top: 5rem;
+  text-shadow: 2px 2px 10px #f8d45c;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+h1 {
+  margin: 5rem;
+}
+
+.btn-lg {
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  background-color: #471313;
+  border-color: #471313;
+  box-shadow: 2px 2px 8px #5a4848;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+  color: rgb(0, 0, 0);
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
